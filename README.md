@@ -95,8 +95,8 @@ Me chamo Giovani Reis, tenho 24 anos e sou natural de Campins - SP. Graduando em
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg"
 />
 <img 
     align="left" 
