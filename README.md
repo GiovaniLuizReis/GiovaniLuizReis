@@ -108,19 +108,11 @@ Me chamo Giovani Reis, tenho 24 anos e sou natural de Campins - SP. Graduando em
 />
 <img 
     align="left" 
-    alt="Anaconda" 
-    title="Anaconda"
+    alt="YOLO5" 
+    title="YOLO5"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Anaconda" 
-    title="Anaconda"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/YOLOv5-1280x720.png" 
+    src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics.svg" 
 />
 <br/>
 <br/>
