@@ -108,11 +108,11 @@ Me chamo Giovani Reis, tenho 24 anos e sou natural de Campins - SP. Graduando em
 />
 <img 
     align="left" 
-    alt="YOLO5" 
-    title="YOLO5"
-    width="30px" 
+    alt="YOLO" 
+    title="YOLO (Ultralytics)"
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/huggingface/brand-assets/yolo.svg"
+    src="https://github.com/ultralytics/assets/blob/main/logo/Ultralytics.svg?raw=true"
 />
 <br/>
 <br/>
